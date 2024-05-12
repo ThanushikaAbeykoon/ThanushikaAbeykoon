@@ -15,6 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanushikaAbeykoon&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+[![](https://visitcount.itsvg.in/api?id=ThanushikaAbeykoon&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!---
 ThanushikaAbeykoon/ThanushikaAbeykoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
