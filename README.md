@@ -1,5 +1,10 @@
 # 💫 About Me:
-<br><br>I'm a passionate and motivated Information Technology undergraduate at the Institute of Technology, University of Moratuwa (ITUM). I'm currently focused on building real-world projects using Flutter, Laravel, and related technologies. I enjoy exploring software engineering, especially on the mobile and web development side, and I'm also gaining experience in Quality Assurance. 
+I'm a motivated **Information Technology undergraduate** at the **Institute of Technology, University of Moratuwa (ITUM)** with a strong focus on **Software Engineering**.
+
+I have hands-on experience building **real-world mobile and web applications** using **Flutter** and **Laravel**, working across both **frontend and backend development**. Through internship and project-based work, I’ve contributed to application features, improved existing systems, and implemented end-to-end functionality.
+
+I’m passionate about problem-solving, writing clean and maintainable code, and continuously improving my skills by working on practical projects and real-world software solutions.
+
 
 
 ## 🌐 Socials:
